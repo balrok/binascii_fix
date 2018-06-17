@@ -28,6 +28,7 @@ we can not know 100% what the original file looked like.
 ## How to Use
 
 `./fix.py folder`
+
 ## Example Data
 
-Inside `demo_data` are two images. 
+Inside `demo_data` are two images. Just run `./fix.py demo_data` and then do `ls demo_data`.
